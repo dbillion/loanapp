@@ -40,8 +40,9 @@ deployed on render as
 ## we started with the personal code and chose the 4 scenerios given
 
 
-public enum PersonalCode {
-    DEBT("49002010965"), # scenerios 1
+: 
+
+public enum PersonalCode { DEBT("49002010965"), # scenerios 1
     SEGMENT_1("49002010976", 100), # scenerios 2
     SEGMENT_2("49002010987", 300),  # scenerios 3
     SEGMENT_3("49002010998", 1000); # scenerios 4
@@ -118,8 +119,7 @@ public class LoanDecisionEngine {
 
 ## ## here we determine the path through the controller
 
-;
-@Controller
+:@Controller
 public class LoanApplicationController {
     private final LoanDecisionEngine loanDecisionEngine;
 
@@ -158,3 +158,31 @@ public class LoanApplicationController {
 }
 
 and we run the app with this class
+
+@SpringBootApplication
+public class LoanappApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(LoanappApplication.class, args);
+	}
+
+}
+
+
+OUR LANDING PAGE
+
+![Alt text](image-1.png)
+
+THE FORM
+![Alt text](image-2.png)
+THE RESULTS
+![Alt text](image-3.png)
+![Alt text](image-4.png)
+OTHER RESULTS
+![Alt text](image-5.png)
+
+THE UML
+
+![Alt text](image-7.png)
+OR
+![Alt text](image-8.png)
