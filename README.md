@@ -1,6 +1,29 @@
 # loanapp
+OUR LANDING PAGE
+
+![Alt text](image-1.png)
+
+THE FORM
+![Alt text](image-2.png)
+THE RESULTS
+![Alt text](image-3.png)
+![Alt text](image-4.png)
+OTHER RESULTS
+![Alt text](image-5.png)
+
+THE UML
+
+![Alt text](image-7.png)
+OR
+![Alt text](image-8.png)
 
 ## interesting app that  simulates 4 scenerios based on an the credit system of an individual when using the app
+
+
+a brief explanation 
+
+https://github.com/dbillion/loanapp/assets/49393855/e473c2cc-f032-4feb-947e-1c2e8a55cecf
+
 
 ### its uses thymeleaf as the frontend with bulma as css
 
@@ -15,8 +38,6 @@
 
 
 # it uses this info to build its docker file
-
-https://github.com/dbillion/loanapp/assets/49393855/e473c2cc-f032-4feb-947e-1c2e8a55cecf
 
 
 
@@ -172,20 +193,3 @@ public class LoanappApplication {
 }
 
 
-OUR LANDING PAGE
-
-![Alt text](image-1.png)
-
-THE FORM
-![Alt text](image-2.png)
-THE RESULTS
-![Alt text](image-3.png)
-![Alt text](image-4.png)
-OTHER RESULTS
-![Alt text](image-5.png)
-
-THE UML
-
-![Alt text](image-7.png)
-OR
-![Alt text](image-8.png)
