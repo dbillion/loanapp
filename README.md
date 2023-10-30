@@ -13,9 +13,12 @@
 
 ## in the future, will upgrade it to java 17 or 21
 
-https://github.com/dbillion/loanapp/assets/49393855/a73e4aff-46c0-487d-9ec5-45e7feb567db
 
 # it uses this info to build its docker file
+
+https://github.com/dbillion/loanapp/assets/49393855/e473c2cc-f032-4feb-947e-1c2e8a55cecf
+
+
 
 FROM eclipse-temurin:11.0.14.1_1-jdk-alpine
 VOLUME /tmp
