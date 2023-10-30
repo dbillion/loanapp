@@ -1,3 +1,7 @@
+check here for the live app
+deployed on render as 
+weblink https://loanapp-2aev.onrender.com/
+
 # loanapp
 OUR LANDING PAGE
 
@@ -56,8 +60,6 @@ docker login
 docker tag local-image:loanapp new-repo:loanapp
 docker push new-repo:loanapp
 
-deployed on render as 
-### weblink https://loanapp-2aev.onrender.com/
 
 
 
